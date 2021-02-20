@@ -1,2 +1,2 @@
-# youpoemapp-api
-An application to be simple
+# You Poem App | API
+An api to a simple application
